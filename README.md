@@ -1,0 +1,2 @@
+# JavaScript Multiplication Table App
+ The project is a multiplication table application built using JavaScript. It generates and displays the multiplication table based on user input. Users can specify the range and size of the table, and the application dynamically generates the corresponding multiplication table. It provides a simple and interactive way for users to practice and learn multiplication.
